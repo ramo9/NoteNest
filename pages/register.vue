@@ -7,8 +7,8 @@
       <p class="text-white text-sm mt-0.5">Already registered? <span class="text-amber-500 underline">log in</span> to your account</p>
       <form class="mt-5"> 
         <div class="flex flex-col">
-          <label class="text-white text-sm mb-1" for="">Email Address</label>
-          <input class="text-sm text-2 border-1" type="text" placeholder="Enter email address">
+          <label class="text-sm text-zinc-300 block mb-0.5" for="">Email Address</label>
+          <input class="border-1" type="text" placeholder="Enter email address">
         </div>
       </form>
     </div>
